@@ -1,0 +1,37 @@
+1. Update resume 
+    - Nova resume
+    - Canva
+
+2. Create a study folder
+    1. React
+        - Hooks
+    2. JS
+        - Event Loop
+        - callBack Hell
+        - call bind apply
+        - prototype
+        - Polyfills custom implementation map function & other js function like forEach 
+        - Closure & currying
+        - hoisting
+
+    3. JS output
+        - setTimeout
+        - Promise
+
+    4. HTML & CSS
+        - center a div
+
+    5. Problem solving
+        - Sorting
+        - Searching
+        - Duplicates
+        - Substring
+        - Pallindrome, fibonacci, anagram
+
+
+
+        for(var i = 1 ; i < 5 ; i++){
+        console.log(i)
+        }
+    
+
